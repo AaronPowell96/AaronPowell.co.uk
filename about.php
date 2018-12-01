@@ -57,12 +57,6 @@
                     I believe also prompted my curiosity for programming, as I looked up to these developers.
 </p>
                 </div>
-                <div class = "img_div">
-                    <figure>
-                        <img id = "about_me_pics" class = "" src="assets/images/">
-                        <figcaption class = "caption_text">.</figcaption>
-                    </figure>
-                </div>
                 <h2 class = "subtitle2">Electrical path</h2>
                 <p class = "content_body">
                    
