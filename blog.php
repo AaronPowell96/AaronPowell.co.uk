@@ -13,6 +13,7 @@
         </div>
         <div class = "content">
                 <div class = "body">
+                    test
                     <div class = "header_home">
                     </div>
                     <script>
