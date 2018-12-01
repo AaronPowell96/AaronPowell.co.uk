@@ -1,0 +1,17 @@
+@font-face { font-family: Roboto-Regular; src: url('../fonts/Roboto_Slab/RobotoSlab-Regular.ttf'); } 
+
+div.copyright_label_wrapper{
+  bottom: 0;
+  margin: auto;
+  width:30em;
+  text-align: center;
+  background-color: white;
+  padding: 1em;
+}
+
+div.copyright_label_wrapper p{
+  font-family: Roboto-Regular;
+  color: #2f416a;
+  opacity: 0.2;
+  font-size: 0.9em;
+}
