@@ -31,10 +31,10 @@ ul.menunav{
   .topnav a{
     margin: 0;
     font-family: Roboto-Light;
-    font-size: 2.65em;
+    font-size: 2.60em;
     color: rgb(255, 255, 255);
     text-decoration: none;
-    margin-left: .1em;
+    margin-left: 0em;
     float: left;
   }
   a.icon{
@@ -85,6 +85,26 @@ a span{
   padding: 2em;
   margin-right:0em;
   margin-top: 0;
+}
+a#git_icon span{
+  background-image: url('../images/github.png');
+  background-repeat: no-repeat;
+  background-size: 2.3em;
+  background-position: center;    
+}
+a#git_icon span:hover{
+background-image: url('../images/github_hv.png');
+background-size: 3.8em;
+}
+a#insta_icon span{
+  background-image: url('../images/instagram.png');
+  background-repeat: no-repeat;
+  background-size: 2.3em;
+  background-position: center;    
+}
+a#insta_icon span:hover{
+background-image: url('../images/instagram_hv.png');
+background-size: 3.8em;
 }
 a#fb_icon span{
     background-image: url('../images/facebook.png');
@@ -158,12 +178,8 @@ a#linkedin_icon span:hover{
 } 
 @media screen and (min-width: 700px) {
     .topnav a{
-      font-family: Roboto-Light;
-      font-size: 2.65em;
-      color: rgb(255, 255, 255);
-      text-decoration: none;
       padding: 0;
-      margin-left: .9em;
+      margin-left: .4em;
     }
     /* Hides "AaronPowell" from the menuBar when ipad or bigger.*/
     .topnav a:first-child{
@@ -179,6 +195,9 @@ a#linkedin_icon span:hover{
   .social_div{
     display: block;
   }
+  #insta_icon, #fb_icon{
+    display: none;
+  }
 }
 @media screen and (min-width: 1025px) {
   .topnav a:not(:nth-child(2)){
@@ -192,6 +211,26 @@ a#linkedin_icon span:hover{
     margin-right: 0em;
     margin-left: -4em;
     margin-top: 0;
+  }
+  a#insta_icon span{
+    background-image: url('../images/instagram.png');
+    background-repeat: no-repeat;
+    background-size: 3.8em;
+    background-position: center;    
+  }
+  a#insta_icon span:hover{
+  background-image: url('../images/instagram_hv.png');
+  background-size: 4.5em;
+  }
+  a#git_icon span{
+    background-image: url('../images/github.png');
+    background-repeat: no-repeat;
+    background-size: 3.9em;
+    background-position: center;    
+  }
+  a#git_icon span:hover{
+  background-image: url('../images/github_hv.png');
+  background-size: 4.9em;
   }
   a#fb_icon span{
     background-size: 6em;
@@ -212,4 +251,9 @@ background-size: 7em;
   a#linkedin_icon span:hover{
   background-size: 7em;
 }
+}
+@media screen and (min-width: 1110px){
+  #insta_icon, #fb_icon{
+    display: block;
+  }
 }

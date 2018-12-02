@@ -1,15 +1,4 @@
-<!DOCTYPE html>
-<html>
-    <head>
-        <title></title>
-        <link rel = "stylesheet" type="text/css" href = "assets/css/menubar.css">
-        <meta name="viewport" content="width=device-width,initial-scale=1.0">
-        <script src="assets/js/main.js"></script>
-        <script src="assets/js/menu.js"></script>
-        <script>
-                    </script>
-    </head>
-    <body>
+
     <div id="navBar" class = "nav_container">
         
         <ul class = "menunav">
@@ -23,10 +12,10 @@
         </ul>
         <div class = "social_div">
                 <a class="social_icon" id = "linkedin_icon" target="_blank" rel="noopener" href = "https://www.linkedin.com/in/AaronPowell96/"><span></span></a>
+                <a class="social_icon" id = "git_icon" target="_blank" rel="noopener" href = "https://github.com/AaronPowell96"><span></span></a>
                <a class="social_icon" id = "twitter_icon" target="_blank" rel="noopener" href = "https://twitter.com/Apowell829/"><span></span></a>
                 <a class="social_icon" id = "fb_icon" target="_blank" rel="noopener" href = "https://www.facebook.com/Apowell96/"><span></span></a>
+                <a class="social_icon" id = "insta_icon" target="_blank" rel="noopener" href = "https://www.instagram.com/_awpowell/"><span></span></a>
             </div>
 <div class="progress-bar" id="progressBar"></div>   
 </div> 
-</body>
-</html>
