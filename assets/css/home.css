@@ -72,7 +72,7 @@ div.banner_home{
 }
 /*Home banner background*/
 #home{
-    background-image: url("../images/codebg.png");
+    background-image: url("../images/codebg-min.png");
 padding-bottom: 6em;
 padding-left: 1em;
 padding-right: 1em;
@@ -86,7 +86,7 @@ background-repeat: no-repeat;
 }
 /*Actual profile picture*/
 .profile_pic{    
-    background-image: url(../images/profile_pic.jpg);
+    background-image: url(../images/profile_pic-min.jpg);
     background-repeat: no-repeat;
     background-size: 20em;
     padding: 5em;
@@ -191,7 +191,7 @@ div.banner_about{
       rgba(0, 153, 255, 0.308),
       rgba(0, 153, 255, 0.308),
       rgba(255, 255, 255, 0.658)
-    ), url("../images/lapbg1.jpg");
+    ), url("../images/laptopbg-min.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -237,7 +237,7 @@ div.banner_about{
         rgba(10, 0, 87, 0),
         rgba(0, 0, 87, 0.4),
         rgb(0, 0, 87)),
-        url("../images/laptopCode.jpg");
+        url("../images/laptopCode-min.jpg");
     background-size: cover;
     background-position: right;
     background-repeat: no-repeat;

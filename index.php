@@ -11,7 +11,7 @@
         <script src="assets/js/menu.js"></script>
         <script src="assets/js/fancybox-master/dist/jquery.fancybox.min.js"></script>
         <meta name="viewport" content="width=device-width,initial-scale=1.0">
-        <meta property="og:image" content="assets/images/AWPProjects1.png">
+        <meta property="og:image" content="assets/images/AWPProjects-min.png">
 <meta property="og:image:type" content="image/png">
 <meta property="og:image:width" content="1024">
 <meta property="og:image:height" content="1024">
