@@ -2,14 +2,16 @@
 <html>
     <head>
         <link rel="stylesheet" type = "text/css" href="assets/css/home.css">
+        <link rel = "stylesheet" type="text/css" href = "assets/css/menubar.css">
         <link rel="stylesheet" type="text/css" href="assets/js/fancybox-master/dist/jquery.fancybox.min.css"/>
         <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
         <script src="assets/js/jquery-3.2.1.js"></script>
         <script src="assets/js/typed.js-master/js/typed.js"></script>
         <script src="assets/js/main.js"></script>
+        <script src="assets/js/menu.js"></script>
         <script src="assets/js/fancybox-master/dist/jquery.fancybox.min.js"></script>
         <meta name="viewport" content="width=device-width,initial-scale=1.0">
-        <meta property="og:image" content="assets/images/AWPProjects.png">
+        <meta property="og:image" content="assets/images/AWPProjects1.png">
 <meta property="og:image:type" content="image/png">
 <meta property="og:image:width" content="1024">
 <meta property="og:image:height" content="1024">
@@ -131,14 +133,15 @@ My sporty technical skills come from having good hand eye coordination, at least
                 <!-- Trigger/Open The Modal -->
 <button id="myBtn" class ="cvBtn">View CV</button>
                 <h2 class="subtitle2">Who am I? </h2>
-                <p class = "content_body dark-wrapper">
+                <div class = "content_body light-wrapper">
                 I am Aaron Powell and this is my portfolio. If you’re looking for my CV you’re lucky, its right <a href="assets/cv/Aaron%20Powell%20CV.pdf" target="_blank">here</a>.</p>
-                <p class = "content_body dark-wrapper">
+                <p>
                 I am currently in the second year of my Computer Science course at University of Kent as of 20/11/2018. 
                 The purose of this website is to expose myself to every step need in the deployment of a website. While also showing off my projects, I intend to imlement technologies
                 that I learn on a day to day basis into the website and projects as much as possible. A focus of creating this website is clean and understandable code, and developing with
                 a mobile-first approach.</p>
-                <div class = "content_body dark-wrapper">
+</div>
+                <div class = "content_body light-wrapper">
                 The languages, libraries, and frameworks I have used to date (<i>not to say I am an expert by any means</i>) are:<ul class="languageList">
                      <li>Java</li>
                      <li>HTML</li>
@@ -149,7 +152,7 @@ My sporty technical skills come from having good hand eye coordination, at least
                     <li>MySQL</li>
 </ul>
 </div>
-<p class = "content_body dark-wrapper">
+<p class = "content_body light-wrapper">
                     Outside of university curriculum I enjoy diving deeper into javascript, following tutorials for further exposure and I have recently begun
                     learning the react library, with future goals of learning NodeJS with expressJS. <br/>Learning more about microservices is also on the list, but lets
                     not get overwhelmed, I am willing to take it a step at a time to be a better developer in the long run.

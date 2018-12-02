@@ -1,12 +1,3 @@
-<!DOCTYPE html>
-<html>
-    <head>
-        <link rel="stylesheet" type = "text/css" href="assets/css/home.css">
-        <script src="assets/js/jquery-3.2.1.js"></script>
-        <script src="assets/js/typed.js-master/js/typed.js"></script>
-        <script src="assets/js/main.js"></script>
-    </head>
-    <body>
     <div id="about">
     <div id="aboutTarget">
         <div class = "banner_about">
@@ -75,7 +66,4 @@
                 </p>
            
         </div>
-                
-                    </div>
-    </body>
-</html>
+</div>

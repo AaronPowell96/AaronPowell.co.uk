@@ -1,7 +1,4 @@
-<!DOCTYPE html>
-<html>
-    <body>
-    <div id="projects">
+<div id="projects">
     <div id="projectsTarget">
         <div class = "banner_projects">
             <img class="projectBannerimage" src="assets/images/AWPProjects1.png" />
@@ -64,5 +61,3 @@
             </div>
         </div>
                     </div>
-    </body>
-</html>
