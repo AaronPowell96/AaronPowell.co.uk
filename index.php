@@ -11,11 +11,13 @@
         <script src="assets/js/menu.js"></script>
         <script src="assets/js/fancybox-master/dist/jquery.fancybox.min.js"></script>
         <meta name="viewport" content="width=device-width,initial-scale=1.0">
-        <meta property="og:image" content="assets/images/AWPProjects-min.png">
-<meta property="og:image:type" content="image/png">
-<meta property="og:image:width" content="1024">
-<meta property="og:image:height" content="1024">
-    </head>
+        <meta property="og:image" content="http://www.aaronpowell.co.uk/assets/images/profile_pic-min.jpg">
+        <meta property="og:image:alt" content="http://www.aaronpowell.co.uk/assets/images/laptop.jpg" property="og:image:type" content="image/jpg">
+<meta property="og:title" content="Aaron Powell's Portfolio" property="og:type" content="Website">
+<meta property="og:description" content="Portfolio website of Computer Science Student, Aaron Powell.">
+<meta property="og:url" content="http://www.AaronPowell.co.uk">
+<title>Aaron Powell's Portfolio</title>
+</head>
     <body id="body">
        <?php include 'menubar.php'; ?>
         <div id="home">

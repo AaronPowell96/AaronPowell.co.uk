@@ -70,7 +70,7 @@ btn.onclick = function() {
 
 // When the user clicks on <span> (x), close the modal
 close.onclick = function() {
-    modal.style.display = "none";
+    modal.style.display = "none";   
     body.style.overflow = "auto";
 }
 maximise.onclick = function() {
