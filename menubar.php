@@ -1,5 +1,4 @@
-
-    <div id="navBar" class = "nav_container">
+<div id="navBar" class = "nav_container">
         
         <ul class = "menunav">
             <div class="topnav" id="myTopnav">
