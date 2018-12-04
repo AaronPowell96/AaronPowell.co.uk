@@ -159,10 +159,10 @@ div#modal-content.maximisedModal{
 .maximiseModalBtn {
     color: rgb(0, 0, 87);
     float: right;
-    font-size: 35px;
+    font-size: 58px;
     font-weight: bold;
     margin: auto;
-    margin-right: 10px;
+    margin-right: 6px;
 
 }
 .maximiseModalBtn:hover,
@@ -175,7 +175,7 @@ div#modal-content.maximisedModal{
 .close {
     color: rgb(0, 0, 87);
     float: right;
-    font-size: 50px;
+    font-size: 58px;
     font-weight: bold;
     margin: auto;
 }

@@ -38,7 +38,7 @@
 <div id="modal-content" class="modalNormalSize">
   <div class="modal-header">
     <span class="close">&times;</span>
-    <span class="maximiseModalBtn">&#128470</span>
+    <span class="maximiseModalBtn">+</span>
     <span class="cvTitle">My Curriculum Vitae</span>
   </div>
   <div class="modal-body">

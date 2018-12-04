@@ -78,11 +78,11 @@ maximise.onclick = function() {
     if (modalContent.className === "modalNormalSize") {
         modalContent.className += " maximisedModal";
         maximise.innerHTML = "&minus;";
-        maximise.style.fontSize = "50px";
+        maximise.style.fontSize = "58px";
     } else {
         modalContent.className = "modalNormalSize";
-        maximise.innerHTML = "&#128470;";
-        maximise.style.fontSize = "35px";
+        maximise.innerHTML = "+";
+        maximise.style.fontSize = "58px";
     }
 }
 // When the user clicks anywhere outside of the modal, close it
