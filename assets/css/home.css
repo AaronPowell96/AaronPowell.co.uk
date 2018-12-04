@@ -12,6 +12,14 @@ background-color: rgb(0, 0, 87);
 #body{
     overflow: auto;
 }
+.project_images{
+    height: 30%;
+    width: 30%;
+}
+.project_images:hover{
+    opacity: 0.5;
+    cursor: pointer;
+}
 /*Different title styles*/
 .title{
     font-family: Roboto-Bold;
