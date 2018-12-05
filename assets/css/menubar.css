@@ -17,6 +17,7 @@ div.nav_container{
   );
   top:0;
   height: 50px;
+  z-index: 9;
 }
 ul.menunav{
   -webkit-margin-after: 0em;
