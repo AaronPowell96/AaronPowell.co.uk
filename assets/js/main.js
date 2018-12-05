@@ -53,6 +53,39 @@ $(function(){
     });
 });
 
+$(document).ready(function(){
+var body = document.getElementById('body');
+$(".modalButton").on("click", function() {
+    var modal = $(this).data("modal");
+    $(modal).show();
+    body.style.overflow = "hidden";
+  });
+
+$(".close").on("click", function(){
+    body.style.overflow = "auto";
+    $(this).closest(".modal").hide();
+});
+
+$(".maximiseModalBtn").on("click", function(){
+    var modalContent = document.getElementById('modal-content');
+    if (modalContent.className === "modalNormalSize") {
+        modalContent.className += " maximisedModal";
+        this.innerHTML = "&minus;";
+        this.style.fontSize = "58px";
+    } else {
+        modalContent.className = "modalNormalSize";
+        this.innerHTML = "+";
+        this.style.fontSize = "58px";
+    }
+});
+  
+  $(".modal").on("click", function(e) {
+    var className = e.target.className;
+    if(className === "modal" || className === "close"){
+      $(this).closest(".modal").hide();
+    }
+  });});
+/*
 $(document).ready(function() {
     // Get the modal
 var modal = document.getElementById('myModal');
@@ -92,4 +125,4 @@ window.onclick = function(event) {
         body.style.overflow = "auto";
     }
 }
-});
+});*/

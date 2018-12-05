@@ -32,10 +32,9 @@
             <div class = "header">
 
             </div>
-<!-- The Modal -->
-<div id="myModal" class="modal">
-                <!-- Modal content -->
-<div id="modal-content" class="modalNormalSize">
+            <!-- CV MODAL -->
+            <div id="modalOne" class="modal">
+  <div id="modal-content" class="modalNormalSize">
   <div class="modal-header">
     <span class="close">&times;</span>
     <span class="maximiseModalBtn">+</span>
@@ -126,14 +125,12 @@ My sporty technical skills come from having good hand eye coordination, at least
 </div>
 </div>
 </div>
-<!--END OF MODAL -->
-
 <div class = "profile_div">
     <span class = "profile_pic"></span>
                     <!--<span class = "profile_pic"></span>-->
                 </div>
                 <!-- Trigger/Open The Modal -->
-<button id="myBtn" class ="cvBtn">View CV</button>
+<button class ="modalButton cvBtn" data-modal="#modalOne">View CV</button>
                 <h2 class="subtitle2">Who am I? </h2>
                 <div class = "content_body light-wrapper">
                 I am Aaron Powell and this is my portfolio. If you’re looking for my CV you’re lucky, its right <a href="assets/cv/Aaron%20Powell%20CV.pdf" target="_blank">here</a>.</p>

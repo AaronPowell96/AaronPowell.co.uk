@@ -12,13 +12,36 @@ background-color: rgb(0, 0, 87);
 #body{
     overflow: auto;
 }
-.project_images{
+button.project-image {
+    background: transparent;
+    border: 0;
+    display: inline-block;
+    height: 100%;
+    padding: 0;
+    margin: 0;
+    vertical-align: top;
+    width: 100%;
+    cursor: pointer;
+}
+  div.polaroid {
     height: 30%;
     width: 30%;
+    background-color: white;
+    display: inline-block;
+    margin-bottom: 1em;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  }
+  div.polaroid>button>p.subtitle2:hover{
+      color:rgb(0, 0, 0);
+  }
+
+.project-image img {
+    display: block;
+    height: 100%;  
+    width: 100%;
 }
-.project_images:hover{
-    opacity: 0.5;
-    cursor: pointer;
+.project-image img:hover{
+    opacity: 0.7;
 }
 /*Different title styles*/
 .title{
@@ -537,3 +560,36 @@ div.contact_field>p.dark-wrapper a.text_links:hover{
             width: 65%;
         }
     }*/
+/* Popup Box */
+
+/* The Modal (background) */
+.modal {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 8888; /* Sit on top */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+/* Modal Content/Box */
+.modal-content {
+    background-color: #fefefe;
+    margin: 10vh auto; /* 15% from the top and centered */
+    padding: 20px;
+    border: 1px solid #888;
+    width: 90%; /* Could be more or less, depending on screen size */
+}
+@media (min-width: 1366px) {
+  .modal-content {
+    background-color: #fefefe;
+    margin: 10vh auto; /* 15% from the top and centered */
+    padding: 20px;
+    border: 1px solid #888;
+    width: 30%; /* Could be more or less, depending on screen size */
+    }
+}
