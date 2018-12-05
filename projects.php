@@ -13,14 +13,6 @@
                     <h2 class = "subtitle3">Cough furball into food bowl then scratch owner for a new one i bet my nine lives</h2>
                     <p class = "content_body">Cough furball into food bowl then scratch owner for a new one i bet my nine lives</p>
                     <div class = "project_image_container">
-                        <div id="project1" class="modal">
-  <div class="modal-content">
-    <div class="contact-form">
-      <span class="close">&times;</span>
-      <h2>Haters Gonna Hate</h2><br>
-    </div>
-  </div>
-</div>
                     <div class="polaroid"><button class="project-image modalButton" data-modal="#project1"><img src="assets/images/sudbury.jpg">
                     <p class="subtitle2">Cinque Terre</p></button></div>
                     <div class="polaroid"><button class="project-image modalButton" data-modal="#project1"><img src="assets/images/sudbury.jpg">
