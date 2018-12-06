@@ -103,8 +103,14 @@ My sporty technical skills come from having good hand eye coordination, at least
     <span class="cvTitle">Memory Game</span>
   </div>
   <div class="modal-body">
-    <section class="content_body light-wrapper">
-        <img src="assets/images/projects/memoryGameLive.png">
+      <br/>
+      <br/>
+      <button class=" cvBtn hideProjectImages"> Show/Hide Project Images </button>
+      <div id="projectImages" class="showing">
+  <img class="project_images" src="assets/images/projects/memoryGameLive.png">
+        <a data-fancybox data-caption="Main menu from the Memory Game." href = "assets/images/projects/memoryGameMenu.png" ><img class="project_images" src="assets/images/projects/memoryGameMenu.png"></a>
+</div>
+        <section class="content_body light-wrapper">
         <p>The skills used in this project are: Java, JavaSwing, determination, perseverance, and my own curiosity which lead to the birth of this project.</p> 
 </section>
 <section class="content_body light-wrapper">

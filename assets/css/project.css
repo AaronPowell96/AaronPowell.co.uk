@@ -1,6 +1,6 @@
 /**Button for polaroid image with modal popup
 fit button to size of polaroid */
-button.project-image {
+button.project-button-image {
     background: transparent;
     border: 0;
     display: inline-block;
@@ -24,12 +24,12 @@ button.project-image {
       color:rgb(0, 0, 0);
   }
 /** fit image to size of polaroid */
-.project-image img {
+.project-button-image img {
     display: block;
     height: 100%;  
     width: 100%;
 }
-.project-image img:hover{
+.project-button-image img:hover{
     opacity: 0.7;
 }
 /*Div around picture and caption */
@@ -72,15 +72,17 @@ div.project_div{
     padding: 0.5em;
     margin-bottom: 1em;
 }
-div.project_images{
-    text-align: center;
-    padding: 1em;
-}
-div.project_images img{
-    margin: 0.8em;
-    width: 12em;
-    border: 0.05em solid #2f416a;
+.project_images{
+    width: 50%;
+    border: 2px solid #363636;
     border-radius: 0.5em;
+}
+.hideProjectImages{
+    color: white;
+    background-color: rgb(0, 0, 87);
+    width: 50%;
+    height: 10%;
+    font-size: .7em;
 }
 @media screen and (min-width: 700px) {
     .banner_projects{

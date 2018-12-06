@@ -26,8 +26,9 @@
    margin-top: 50px;
     border: ridge 2px rgb(0, 0, 87);
 }
-.modal-body{
-    text-align: left;
+
+.modal-body, #projectImages{
+    align-content: center;
 }
 .modal-footer{
     align-content: center;
