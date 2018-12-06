@@ -43,7 +43,7 @@
 <button class ="modalButton cvBtn" data-modal="#cvModal">View CV</button>
                 <h2 class="subtitle2">Who am I? </h2>
                 <div class = "content_body light-wrapper">
-                I am Aaron Powell and this is my portfolio. If you’re looking for my CV you’re lucky, its right <a href="assets/cv/Aaron%20Powell%20CV.pdf" target="_blank">here</a>.</p>
+                I am Aaron Powell and this is my portfolio. If you’re looking for my CV you’re lucky, its right above here!</p>
                 <p>
                 I am currently in the second year of my Computer Science course at University of Kent as of 20/11/2018. 
                 The purose of this website is to expose myself to every step need in the deployment of a website. While also showing off my projects, I intend to imlement technologies
