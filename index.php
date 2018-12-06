@@ -11,6 +11,7 @@
         <script src="assets/js/typed.js-master/js/typed.js"></script>
         <script src="assets/js/main.js"></script>
         <script src="assets/js/menu.js"></script>
+        <script src="assets/js/project.js"></script>
         <script src="assets/js/fancybox-master/dist/jquery.fancybox.min.js"></script>
         <meta name="viewport" content="width=device-width,initial-scale=1.0">
         <meta property="og:image" content="http://www.aaronpowell.co.uk/assets/images/profile_pic-min.jpg">
