@@ -26,6 +26,9 @@
    margin-top: 50px;
     border: ridge 2px rgb(0, 0, 87);
 }
+section.content_body.dark-wrapper{
+    text-align: left;
+}
 
 .modal-body, #projectImages{
     align-content: center;
