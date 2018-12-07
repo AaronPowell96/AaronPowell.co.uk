@@ -6,7 +6,6 @@
         <link rel = "stylesheet" type="text/css" href = "assets/css/project.css">
         <link rel = "stylesheet" type="text/css" href = "assets/css/modals.css">
         <link rel="stylesheet" type="text/css" href="assets/js/fancybox-master/dist/jquery.fancybox.min.css"/>
-        <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
         <script src="assets/js/jquery-3.2.1.js"></script>
         <script src="assets/js/typed.js-master/js/typed.js"></script>
         <script src="assets/js/main.js"></script>
@@ -44,27 +43,30 @@
 <button class ="modalButton cvBtn" data-modal="#cvModal">View CV</button>
                 <h2 class="subtitle2">Who am I? </h2>
                 <div class = "content_body light-wrapper">
-                I am Aaron Powell and this is my portfolio. If you’re looking for my CV you’re lucky, its right above here!</p>
+                I am Aaron Powell and this is my portfolio. If you’re looking for my CV you’re lucky, it's right above here!
+            Feel free to view all my Social Media accounts, some may be more exciting than others but I like to think I have a few quality
+        photographs somewhere!</p>
                 <p>
-                I am currently in the second year of my Computer Science course at University of Kent as of 20/11/2018. 
-                The purose of this website is to expose myself to every step need in the deployment of a website. While also showing off my projects, I intend to imlement technologies
+                I am currently in the second year of my Computer Science course at University of Kent. 
+                The purpose of this website is to expose myself to every step need in the deployment of a website. While also showing off my projects, I intend to implement technologies
                 that I learn on a day to day basis into the website and projects as much as possible. A focus of creating this website is clean and understandable code, and developing with
                 a mobile-first approach.</p>
 </div>
                 <div class = "content_body light-wrapper">
                 The languages, libraries, and frameworks I have used to date (<i>not to say I am an expert by any means</i>) are:<ul class="languageList">
-                     <li>Java</li>
-                     <li>HTML</li>
-                     <li>CSS</li>
-                    <li>JavaScript</li>
-                    <li>jQuery</li>
-                    <li>php</li>
-                    <li>MySQL</li>
+                     <li>Java,</li>
+                     <li>HTML,</li>
+                     <li>CSS,</li>
+                    <li>JavaScript,</li>
+                    <li>jQuery,</li>
+                    <li>React,</li>
+                    <li>Php,</li>
+                    <li>MySQL.</li>
 </ul>
 </div>
 <p class = "content_body light-wrapper">
-                    Outside of university curriculum I enjoy diving deeper into javascript, following tutorials for further exposure and I have recently begun
-                    learning the react library, with future goals of learning NodeJS with expressJS. <br/>Learning more about microservices is also on the list, but lets
+                    Outside of university curriculum I enjoy diving deeper into Javascript, following tutorials for further exposure and I have recently begun
+                    learning the React library, with future goals of learning NodeJS with expressJS. <br/>Learning more about micro-services is also on the list, but let's
                     not get overwhelmed, I am willing to take it a step at a time to be a better developer in the long run.
 </p>
                 
