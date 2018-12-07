@@ -34,15 +34,6 @@ function subHeading(){
     typeSpeed: 60,
     });
 };
-//projects
-$(function(){
-    $(".projectsSub").typed({
-    strings: ["My projects.", 
-    ],
-    typeSpeed: 60,
-    backDelay: 200,
-    });
-});
 //about
 $(function(){
     $(".aboutMeSub").typed({
