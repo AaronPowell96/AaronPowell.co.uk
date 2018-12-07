@@ -4,6 +4,10 @@
   <div class="modal-header">
     <span class="close">&times;</span>
     <span class="maximiseModalBtn">+</span>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
     <span class="cvTitle">My Curriculum Vitae</span>
   </div>
   <div class="modal-body">
@@ -100,11 +104,13 @@ My sporty technical skills come from having good hand eye coordination, at least
   <div class="modal-header">
     <span class="close">&times;</span>
     <span class="maximiseModalBtn">+</span>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
     <span class="cvTitle">Memory Game</span>
   </div>
   <div class="modal-body">
-      <br/>
-      <br/>
       <button class=" cvBtn hideProjectImages"> Show/Hide Project Images </button>
       <div id="projectImages" class="showing">
   <img class="project_images" src="assets/images/projects/memoryGameLive.png">
