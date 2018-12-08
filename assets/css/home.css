@@ -72,7 +72,7 @@ div.banner_home{
 }
 /*Home banner background*/
 #home{
-    background-image: url("../images/codebg-min.png");
+    background-image: url("../images/codebg-min1.png");
 padding-bottom: 6em;
 padding-left: 1em;
 padding-right: 1em;
@@ -86,7 +86,7 @@ background-repeat: no-repeat;
 }
 /*Actual profile picture*/
 .profile_pic{    
-    background-image: url(../images/profile_pic-min.jpg);
+    background-image: url("../images/profile_pic-min1.jpg");
     background-repeat: no-repeat;
     background-size: 20em;
     padding: 5em;
