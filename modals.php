@@ -98,8 +98,8 @@ I enjoy watching a variety of content on Twitch, seeing other people’s interes
 </div>
 <!-- END OF CV MODAL -->
 
-<!-- PROJECT1 MODAL -->
-<div id="project1" class="modal">
+<!-- MEMORY GAME PROJECT MODAL -->
+<div id="memoryGameProject" class="modal">
   <div id="project-content" class="modalNormalSize">
   <div class="modal-header">
     <span class="close">&times;</span>
