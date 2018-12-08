@@ -116,26 +116,19 @@ I enjoy watching a variety of content on Twitch, seeing other people’s interes
         <a data-fancybox data-caption="Board from the Monster Game" href = "assets/images/projects/monsterGameBoard.png" ><img class="project_images" src="assets/images/projects/monsterGameBoard.png"></a>
 </div>
         <section class="content_body light-wrapper">
-        <p>The skills used in this project are: Java, JavaSwing, determination, perseverance, and my own curiosity which lead to the birth of this project.</p> 
+        <p>This text-based monster game uses only java. By concept, it was easy, but by implementation, it was quite hard to efficiently place a monster into the board and not lose track when reshuffled or attacked.</p> 
 </section>
 <section class="content_body light-wrapper">
-        <p>In my spare time I decided to teach myself how to uses GUI's in java, this was outside
-            of the university curriculum but I felt it was very much an important thing to learn.
+        <p>One of my biggest challenges, and a lot of time was spent on the leaderboard, old code has been left in but commented out to show how I approached the problem before finally using a lambda, reducing 50+ lines of code into 2-4 lines of code.
         </p>
         <p>
-            Not perfect by any means I have created a memory game for the user to copy the sequences shown to them
-            by flashing colours, there are levels that get harder for each one you pass, and there are difficulties
-            for those who feel they are the master of memory.
-            </p>
-            <p>Still under development during my free time I plan to move the Jframes which are created for each
-                part of the game to panels, as I have come to learn that this would be the more appropriate, and efficient
-                way of programming with the use of JAVASWING.
+            Entensive commenting can be found throughout this program as I tried out different approaches to each method, leaving reasoning behind why I have chosen the final approach.
             </p>
 </section>
 
 </div>
   <div class="modal-footer">    
-  <a href="https://github.com/AaronPowell96/MemoryGame"><button class="cvBtn">Project Github</button></a>
+  <a href="https://github.com/AaronPowell96/TextBasedMonsterGame"><button class="cvBtn">Project Github</button></a>
     <div class = "contact_field">
                     <p class = "content_body dark-wrapper">
                         Academic Email:  <a class="text_links" href = "mailto:AP820@kent.ac.uk">AP820@kent.ac.uk</a>
