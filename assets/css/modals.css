@@ -33,6 +33,11 @@ section.content_body.dark-wrapper{
 .modal-body, #projectImages{
     align-content: center;
 }
+#projectImages a img.project_images{
+    width: 96%;
+    border: 1px solid #363636;
+    border-radius: 0.2em;
+}
 .modal-footer{
     align-content: center;
 }
@@ -74,6 +79,9 @@ div#modal-content.maximisedModal, div#project-content.maximisedModal{
 }
 
 @media screen and (min-width: 700px) {
+    #projectImages a img.project_images{
+        width: 70%;
+    }
 
 }
 @media screen and (min-width: 900px)
@@ -81,10 +89,16 @@ div#modal-content.maximisedModal, div#project-content.maximisedModal{
     .modalNormalSize {
         width: 80vw; /* Could be more or less, depending on screen size */
     }
+    #projectImages a img.project_images{
+        width: 60%;
+    }
 }
 @media screen and (min-width: 1200px)
 {
     .modalNormalSize {
         width: 50vw; /* Could be more or less, depending on screen size */
+    }
+    #projectImages a img.project_images{
+        width: 50%;
     }
 }

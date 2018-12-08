@@ -86,7 +86,7 @@ I enjoy watching a variety of content on Twitch, seeing other people’s interes
 </div>
 <h2 class="subtitle2">References on request</h2> 
   <div class="modal-footer">
-  <a href="assets/cv/Aaron%20Powell%20CV.pdf"><button class="cvBtn">Download CV</button></a>
+  <a href="assets/cv/Aaron%20Powell%20CV.pdf" download><button class="cvBtn">Download CV</button></a>
   <h2 class="subtitle2">Contact me</h2>    
     <div class = "contact_field">
                     <p class = "content_body dark-wrapper">
@@ -112,8 +112,8 @@ I enjoy watching a variety of content on Twitch, seeing other people’s interes
   </div>
   <div class="modal-body">
       <button class=" cvBtn hideProjectImages"> Show/Hide Project Images </button>
-      <div id="projectImages" class="showing">
-  <img class="project_images" src="assets/images/projects/memoryGameLive.png">
+      <div id="projectImages">
+  <a data-fancybox data-caption="Memory Game sequence playing." href = "assets/images/projects/memoryGameLive.png" ><img class="project_images" src="assets/images/projects/memoryGameLive.png"></a>
         <a data-fancybox data-caption="Main menu from the Memory Game." href = "assets/images/projects/memoryGameMenu.png" ><img class="project_images" src="assets/images/projects/memoryGameMenu.png"></a>
 </div>
         <section class="content_body light-wrapper">
