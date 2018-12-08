@@ -19,8 +19,8 @@
                     </p>
 </div>
                 <div class = "img_div">
-                <a data-fancybox data-caption="Sunset from Great Cornard looking into the Meadows of sudbury" href = "assets/images/sunset-min.jpg" ><img class = "about_me_pics" src="assets/images/sunset-min.jpg"></a>
-                        <a data-fancybox data-caption="River Stour running through sudbury meadows" href = "assets/images/meadows-min.jpg" ><img class = "about_me_pics" src="assets/images/meadows-min.jpg"></a>
+                <a data-fancybox data-caption="Sunset from Great Cornard looking into the Meadows of sudbury" href = "assets/images/sunset.jpg" ><img class = "about_me_pics" src="assets/images/sunset-min.jpg"></a>
+                        <a data-fancybox data-caption="River Stour running through sudbury meadows" href = "assets/images/meadows.jpg" ><img class = "about_me_pics" src="assets/images/meadows-min.jpg"></a>
                 </div>
                 <h2 class = "subtitle2">Sports</h2>
                 <div class = "content_body light-wrapper">
