@@ -13,11 +13,11 @@ button.project-button-image {
 }
 /**Polaroid styling with modal popup */
   div.polaroid {
-    height: 30%;
-    width: 30%;
+    height: 12em;
+    width: 15em;
     background-color: white;
     display: inline-block;
-    margin-bottom: 1em;
+    margin-bottom: 2.5em;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   }
   div.polaroid>button>p.subtitle2:hover{
