@@ -97,7 +97,54 @@ I enjoy watching a variety of content on Twitch, seeing other people’s interes
 </div>
 </div>
 <!-- END OF CV MODAL -->
+<!-- MONSTER GAME PROJECT MODAL -->
+<div id="monsterGameProject" class="modal">
+  <div id="project-content" class="modalNormalSize">
+  <div class="modal-header">
+    <span class="close">&times;</span>
+    <span class="maximiseModalBtn">+</span>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+    <span class="cvTitle">Monster Game</span>
+  </div>
+  <div class="modal-body">
+      <button class=" cvBtn hideProjectImages"> Show/Hide Project Images </button>
+      <div id="projectImages">
+  <a data-fancybox data-caption="Monster game menu" href = "assets/images/projects/monsterGameMenu.png" ><img class="project_images" src="assets/images/projects/monsterGameMenu.png"></a>
+        <a data-fancybox data-caption="Board from the Monster Game" href = "assets/images/projects/monsterGameBoard.png" ><img class="project_images" src="assets/images/projects/monsterGameBoard.png"></a>
+</div>
+        <section class="content_body light-wrapper">
+        <p>The skills used in this project are: Java, JavaSwing, determination, perseverance, and my own curiosity which lead to the birth of this project.</p> 
+</section>
+<section class="content_body light-wrapper">
+        <p>In my spare time I decided to teach myself how to uses GUI's in java, this was outside
+            of the university curriculum but I felt it was very much an important thing to learn.
+        </p>
+        <p>
+            Not perfect by any means I have created a memory game for the user to copy the sequences shown to them
+            by flashing colours, there are levels that get harder for each one you pass, and there are difficulties
+            for those who feel they are the master of memory.
+            </p>
+            <p>Still under development during my free time I plan to move the Jframes which are created for each
+                part of the game to panels, as I have come to learn that this would be the more appropriate, and efficient
+                way of programming with the use of JAVASWING.
+            </p>
+</section>
 
+</div>
+  <div class="modal-footer">    
+  <a href="https://github.com/AaronPowell96/MemoryGame"><button class="cvBtn">Project Github</button></a>
+    <div class = "contact_field">
+                    <p class = "content_body dark-wrapper">
+                        Academic Email:  <a class="text_links" href = "mailto:AP820@kent.ac.uk">AP820@kent.ac.uk</a>
+                    </p>
+                </div>
+</div>
+</div>
+</div>
+<!-- END OF MEMORY GAME MODAL -->
 <!-- MEMORY GAME PROJECT MODAL -->
 <div id="memoryGameProject" class="modal">
   <div id="project-content" class="modalNormalSize">
@@ -145,4 +192,4 @@ I enjoy watching a variety of content on Twitch, seeing other people’s interes
 </div>
 </div>
 </div>
-<!-- END OF PROJECT1 MODAL -->
+<!-- END OF MONSTER GAME MODAL -->
