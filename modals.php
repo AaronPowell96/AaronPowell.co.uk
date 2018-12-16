@@ -111,7 +111,7 @@ I enjoy watching a variety of content on Twitch, seeing other people’s interes
   </div>
   <div class="modal-body">
       <button class=" cvBtn hideProjectImages"> Show/Hide Project Images </button>
-      <div id="projectImages">
+      <div class="projectImages">
   <a data-fancybox data-caption="Monster game menu" href = "assets/images/projects/monsterGameMenu.png" ><img class="project_images" src="assets/images/projects/monsterGameMenu.png"></a>
         <a data-fancybox data-caption="Board from the Monster Game" href = "assets/images/projects/monsterGameBoard.png" ><img class="project_images" src="assets/images/projects/monsterGameBoard.png"></a>
 </div>
@@ -137,7 +137,7 @@ I enjoy watching a variety of content on Twitch, seeing other people’s interes
 </div>
 </div>
 </div>
-<!-- END OF MEMORY GAME MODAL -->
+<!-- END OF MONSTER GAME MODAL -->
 <!-- MEMORY GAME PROJECT MODAL -->
 <div id="memoryGameProject" class="modal">
   <div id="project-content" class="modalNormalSize">
@@ -152,9 +152,12 @@ I enjoy watching a variety of content on Twitch, seeing other people’s interes
   </div>
   <div class="modal-body">
       <button class=" cvBtn hideProjectImages"> Show/Hide Project Images </button>
-      <div id="projectImages">
-  <a data-fancybox data-caption="Memory Game sequence playing." href = "assets/images/projects/memoryGameLive.png" ><img class="project_images" src="assets/images/projects/memoryGameLive.png"></a>
+      <div class="projectImages">
+  <a data-fancybox data-caption="Memory Game start board." href = "assets/images/projects/memoryGamePlay.png" ><img class="project_images" src="assets/images/projects/memoryGamePlay.png"></a>
+        <a data-fancybox data-caption="Live playing from the Memory Game." href = "assets/images/projects/memoryGameLive.png" ><img class="project_images" src="assets/images/projects/memoryGameLive.png"></a>
         <a data-fancybox data-caption="Main menu from the Memory Game." href = "assets/images/projects/memoryGameMenu.png" ><img class="project_images" src="assets/images/projects/memoryGameMenu.png"></a>
+        <a data-fancybox data-caption="Difficulty menu from the Memory Game." href = "assets/images/projects/memoryGameDifficulty.png" ><img class="project_images" src="assets/images/projects/memoryGameDifficulty.png"></a>
+
 </div>
         <section class="content_body light-wrapper">
         <p>The skills used in this project are: Java, JavaSwing, determination, perseverance, and my own curiosity which lead to the birth of this project.</p> 
@@ -185,4 +188,4 @@ I enjoy watching a variety of content on Twitch, seeing other people’s interes
 </div>
 </div>
 </div>
-<!-- END OF MONSTER GAME MODAL -->
+<!-- END OF MEMORY GAME MODAL -->
