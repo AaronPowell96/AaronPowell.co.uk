@@ -138,6 +138,7 @@ I enjoy watching a variety of content on Twitch, seeing other people’s interes
 </div>
 </div>
 <!-- END OF MONSTER GAME MODAL -->
+
 <!-- MEMORY GAME PROJECT MODAL -->
 <div id="memoryGameProject" class="modal">
   <div id="project-content" class="modalNormalSize">
@@ -189,3 +190,50 @@ I enjoy watching a variety of content on Twitch, seeing other people’s interes
 </div>
 </div>
 <!-- END OF MEMORY GAME MODAL -->
+
+<!-- PORTFOLIO WEBSITE PROJECT MODAL -->
+<div id="portfolioProject" class="modal">
+  <div id="project-content" class="modalNormalSize">
+  <div class="modal-header">
+    <span class="close">&times;</span>
+    <span class="maximiseModalBtn">+</span>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+    <span class="cvTitle">Portfolio Website</span>
+  </div>
+  <div class="modal-body">
+  <section class="content_body light-wrapper">
+        <p>You're not crazy.. There are no images here since the website you are viewing is this project. Feel free to browse around! If you find any bugs feel free to email me or do the github thing, still waiting for the day someone else commits to one of my projects!
+            Thank you for viewing!
+        </p> 
+</section>
+        <section class="content_body light-wrapper">
+        <p>The objective of this project is to publicise my projects, my information, and to do so while practising new technologies. I have used a mixture of skills to develop this website and look forward to implementing more advanced features in the future.</p> 
+</section>
+<section class="content_body light-wrapper">
+        <p>Created in my spare-time to host a catalogue of projects and become a project within itself, the biggest challenge of my website has been the responsive, mobile-first development.
+            Originally creating a static desktop-first website, and realising how horrile it was for mobile users, I took upon mysef an adventure of learning how to be <mobile-first class=""></mobile-first>
+        </p>
+        <p>
+            Constantly under-construction but not always up to date, you can find majority of my projects, that are not current assignments for university, at my github page.
+            If you have any feedback or suggestions, please reach out to me via any of my social medias or email, I welcome criticism if you are willing to help my learning, to help me progress as a developer.
+            </p>
+            <p>Future goals of this website are to add a blog with a customer facing UI, allowing logging in, posting, styling, images etc when created a new blog post. This would primary be for my use to have updates
+                on my progress. Further functionality or to create a react version of the website would be a goal to keep in mind as I learn more.
+            </p>
+</section>
+
+</div>
+  <div class="modal-footer">    
+  <a href="https://github.com/AaronPowell96/AaronPowell.co.uk"><button class="cvBtn">Project Github</button></a>
+    <div class = "contact_field">
+                    <p class = "content_body dark-wrapper">
+                        Academic Email:  <a class="text_links" href = "mailto:AP820@kent.ac.uk">AP820@kent.ac.uk</a>
+                    </p>
+                </div>
+</div>
+</div>
+</div>
+<!-- END OF PORTFOLIO WEBSITE MODAL -->

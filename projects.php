@@ -22,11 +22,11 @@
                     <p class="subtitle2">Memory Game</p></button></div>
                     <div class="polaroid"><button class="project-button-image modalButton" data-modal="#monsterGameProject"><img src="assets/images/projects/monsterGameMenu.png">
                     <p class="subtitle2">Monster Game</p></button></div>
-                    <div class="polaroid"><button class="project-button-image modalButton" data-modal="#monsterGameProject"><img src="assets/images/projects/portfolioWebsiteMobile.png">
+                    <div class="polaroid"><button class="project-button-image modalButton" data-modal="#portfolioProject"><img src="assets/images/projects/portfolioWebsiteMobile.png">
+                    <p class="subtitle2">Portfolio Website</p></button></div>
+                    <div class="polaroid"><button class="project-button-image modalButton" data-modal="#portfolioProject"><img src="assets/images/sudbury.jpg">
                     <p class="subtitle2">Placeholder</p></button></div>
-                    <div class="polaroid"><button class="project-button-image modalButton" data-modal="#project1"><img src="assets/images/sudbury.jpg">
-                    <p class="subtitle2">Placeholder</p></button></div>
-                    <div class="polaroid"><button class="project-button-image modalButton" data-modal="#project1"><img src="assets/images/sudbury.jpg">
+                    <div class="polaroid"><button class="project-button-image modalButton" data-modal="#portfolioProject"><img src="assets/images/sudbury.jpg">
                     <p class="subtitle2">Placeholder</p></button></div>
 </div>
                 </div>
