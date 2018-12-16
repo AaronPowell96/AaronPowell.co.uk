@@ -18,6 +18,7 @@
 <meta property="og:title" content="Aaron Powell's Portfolio" property="og:type" content="Website">
 <meta property="og:description" content="Portfolio website of Computer Science Student, Aaron Powell.">
 <meta property="og:url" content="http://www.AaronPowell.co.uk">
+<link href="assets/images/favicon.ico" rel="icon" type="image/x-icon" />
 <title>Aaron Powell's Portfolio</title>
 </head>
     <body id="body">
