@@ -1,4 +1,4 @@
-    <div id="about">
+<div id="about">
     <div id="aboutTarget">
         <div class = "banner_about">
             <h1 class = "title">About me</h1>
