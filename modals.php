@@ -5,7 +5,7 @@
     <span class="close">&times;</span>
     <span class="maximiseModalBtn">+</span>
     <br/>
-    <br/>
+    <br/><!-- Spaces from maximise and close from the title to not effect the layout -->
     <br/>
     <br/>
     <span class="cvTitle">My Curriculum Vitae</span>
